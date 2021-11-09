@@ -1,0 +1,35 @@
+.quase {
+  width: auto;
+  height: 130px;
+  box-shadow: 0 1px 4px 0 rgb(0 0 0 / 30%);
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+
+.cardImg {
+
+  border-radius: 3px;
+  background-color: white;
+  padding: 15px;
+  margin-top: -20px;
+  margin-right: 15px;
+  margin-left: 15px;
+  float: left;
+  box-shadow: 0 1px 4px 0 rgb(0 0 0 / 20%);
+}
+
+.ajustImagem {
+  width: 50px;
+}
+
+.arrumarP {
+  text-align: start;
+
+}
+
+h1, p {
+  color: #3C4858;
+}
+
+ 

@@ -1,0 +1,38 @@
+import React from 'react'
+import './CardErro.css'
+
+ 
+
+
+const CardCpf = (props) => {
+  return (
+  
+    
+
+  <div className="row">
+    <div class="col-lg-12 col-md-12 col-sm-12">
+                            <div className="card card-stats">
+                                <div className="card-header card-header card-header-icon">
+
+                                    <div className="card-icon  ajuste_card bordinha">
+                                        <img className="tamImg" src="https://cdn-icons-png.flaticon.com/512/747/747376.png" alt="" />
+                                    </div>
+                                    <h1 className="card-title text-center">356.900
+                                    </h1>
+                                </div>
+                                <div className="card-footer">
+                                    <div className="stats text-center">
+                                        <h6 className="card-title">CPF</h6>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+  </div>
+      
+
+ 
+
+  )
+}
+
+export default CardCpf

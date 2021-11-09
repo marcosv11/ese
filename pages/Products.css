@@ -1,0 +1,20 @@
+ 
+.trataImg {
+  width: 50px;
+  height: 50px;
+  align-items: start;
+}
+.tam {
+  padding: 20px;
+  border-radius: 8px;
+  width: 120px;
+  height: auto;
+  box-shadow: 0 1px 4px 0 rgb(0 0 0 / 20%);
+ transition: 500ms;
+  cursor: pointer;
+}
+
+.tam:hover {
+  transition: 500ms;
+  box-shadow: 0 1px 4px 0 rgb(0 0 0 / 50%);
+}
